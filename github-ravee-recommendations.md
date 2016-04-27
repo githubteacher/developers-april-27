@@ -1,9 +1,18 @@
 ### El Segundo, CA
 
 ### Places to Eat
-not a great choice
+- PF Changs
+- Veggie Grill
+- Mandovi
+
 ### Fun things to do
+- Disney land
+- Universal City
+- Sunset Blvd
+- Venice Beach
+- California Science Center
 
 ### Places to Stay
-[] Double tree
-[] Someother
+- Double tree
+- Someother
+- Holiday Inn
