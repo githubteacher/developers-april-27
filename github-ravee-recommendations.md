@@ -5,3 +5,5 @@
 ### Fun things to do
 
 ### Places to Stay
+[] Double tree
+[] Someother
